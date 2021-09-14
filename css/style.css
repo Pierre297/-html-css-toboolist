@@ -126,3 +126,12 @@ body{
     border-radius: 25%;
     margin-left: 20px;
 }
+
+/* Div Lista */
+#new_task {
+padding-bottom: 40px;
+}
+
+#today {
+    padding-bottom: 40px;
+    }
