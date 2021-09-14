@@ -79,5 +79,50 @@ body{
 }
 
 .list {
+    padding-left: 60px;
+    padding-top: 40px;
+}
+
+.checkmark::after {
+    content: "\2705 ";
+}
+
+.xmark::after {
+    content:"\274c" ;
+}
+
+.editorial {
+    background-color: rgb(131, 178, 250);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.goals {
+    background-color: violet;
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.Recruiting {
+    background-color: rgb(55, 190, 139);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.mobile {
+    background-color: orange;
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.website {
+    background-color:pink;
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.sales {
+    background-color:rgb(160, 212, 64);
+    border-radius: 25%;
     margin-left: 20px;
 }
