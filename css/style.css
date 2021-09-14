@@ -31,7 +31,7 @@ body{
     
 }
 
-/* Main  */
+/* bottoni  */
 
 #container_button {
     background-color: white;
@@ -66,6 +66,8 @@ body{
    
 }
 
+/* Lista */
+
 #container_list {
     background-color: white;
     border-radius: 1%;
@@ -74,4 +76,8 @@ body{
     margin: 0 auto;
     
     
+}
+
+.list {
+    margin-left: 20px;
 }
